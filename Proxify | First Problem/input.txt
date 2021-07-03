@@ -1,0 +1,8 @@
+4
+rice sugar wheat cheese
+4
+16.89 56.92 20.89 345.99
+4
+rice cheese rice rice rice
+4
+18.99 400.89 16.82 17.89 16.89
