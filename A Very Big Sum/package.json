@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "watch": "nodemon -e js, txt -w"
+  }
+}
